@@ -39,3 +39,7 @@ section > #h2 {
 .h2 > section {
     background-color: blue;
 }
+
+.header {
+    background-color: green;
+}
