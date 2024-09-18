@@ -1,0 +1,41 @@
+/* 1 */
+body{
+    background-color: blueviolet;
+}
+
+/* 2 */
+div {
+    background-color: yellow;
+}
+
+.p {
+    background-color: aqua;
+}
+
+#p {
+    background-color: brown;
+}
+
+.nested p {
+    background-color: azure;
+}
+
+div > section > h3 {
+    background-color: crimson;
+}
+
+h2 + p {
+    background-color:darkgreen
+}
+
+div > section {
+    background-color: burlywood;
+}
+
+section > #h2 {
+    background-color: chartreuse;
+}
+
+.h2 > section {
+    background-color: blue;
+}
